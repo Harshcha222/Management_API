@@ -1,4 +1,3 @@
-# Management_API
 # Project Management API
 
 ## Overview
